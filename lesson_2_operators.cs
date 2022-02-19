@@ -2,9 +2,9 @@ using System;
 
 namespace csharp_learning
 {
-    public class operators
+    public class lesson_2
     {
-        public static void fOperators()
+        public static void operators()
         {
 
             //? Atama

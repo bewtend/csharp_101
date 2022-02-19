@@ -2,9 +2,9 @@ using System;
 
 namespace csharp_learning
 {
-    public class variables
+    public class lesson_1
     {
-        public static void fVariable()
+        public static void variables()
         {
             // byte _byte = 1;         //? 1byte
             // sbyte _sbyte = 1;       //? 1byte

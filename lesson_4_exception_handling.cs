@@ -2,7 +2,7 @@ using System;
 
 namespace csharp_learning
 {
-    public class exception_handling
+    public class lesson_4
     {
         public static void exception()
         {
@@ -31,21 +31,6 @@ namespace csharp_learning
             {
                 Console.WriteLine("Bizi tercih ettiğiniz için teşekkürler...");
             }
-
-
-
-            // try
-            // {
-            //     _input = Int32.Parse(null);
-            // }
-            // catch (ArgumentNullException exp)
-            // {
-            //     System.Console.WriteLine(exp.Message.ToString());
-            // }
-            // finally
-            // {
-            //     Console.WriteLine("Bizi tercih ettiğiniz için teşekkürler...");
-            // }
         }
     }
 }

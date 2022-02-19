@@ -2,7 +2,7 @@ using System;
 
 namespace csharp_learning
 {
-    public class type_conversion
+    public class lesson_3
     {
         //? Implicit Conversion 
         public static void imp_conversion()
