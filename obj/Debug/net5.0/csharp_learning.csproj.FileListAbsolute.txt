@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.exe
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.deps.json
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.runtimeconfig.json
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.dll
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\ref\csharp_learning.dll
+C:\Users\Sys\Desktop\patika\csharp_learning\bin\Debug\net5.0\csharp_learning.pdb
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.AssemblyInfo.cs
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.dll
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\ref\csharp_learning.dll
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.pdb
+C:\Users\Sys\Desktop\patika\csharp_learning\obj\Debug\net5.0\csharp_learning.genruntimeconfig.cache
