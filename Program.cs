@@ -8,6 +8,8 @@ namespace csharp_learning
         {
             // variables.variable(); 
             // operators.fOperators();
+            type_conversion.imp_conversion();
+            type_conversion.exp_conversion();
         }
     }
 }
