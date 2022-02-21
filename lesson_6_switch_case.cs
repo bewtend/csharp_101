@@ -27,13 +27,7 @@ namespace csharp_learning
                     Console.WriteLine("Bu ay prim almıyorsunuz!");
                     break;
             }
-
-
-
-
-
         }
-
         enum Aylar
         {
             Ocak,

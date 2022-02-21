@@ -11,7 +11,9 @@ namespace csharp_learning
             // lesson_3.imp_conversion();
             // lesson_3.exp_conversion();
             // lesson_4.exception();
-            lesson_5.if_else();
+            // lesson_5.if_else();
+            // lesson_6.switch_case();
+            lesson_7.loops();
         }
     }
 }
