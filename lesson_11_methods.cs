@@ -15,8 +15,6 @@ namespace csharp_learning
         {
             return a + b;
         }
-
-
     }
 
     class method
@@ -25,7 +23,6 @@ namespace csharp_learning
         {
             System.Console.WriteLine(result);
         }
-
         public static int plusAndIncrement(int var1, int var2)
         {
             var1 += 1;
