@@ -6,26 +6,48 @@ namespace csharp_learning
     {
         public static void switch_case()
         {
-            //? Prim ayları
+            //? Prim ayları (enum ile switch case kullanımı) 
+            Aylar aylar = Aylar.Şubat;
             int _month = DateTime.Now.Month;
-            switch (_month)
+            switch (aylar)
             {
-                case 1:
+                case Aylar.Ocak:
                     Console.WriteLine("Ocak ayındasınız ve prim alıyorsunuz!");
                     break;
-                case 2:
+                case Aylar.Şubat:
                     Console.WriteLine("Şubat ayındasınız ve prim alıyorsunuz!");
                     break;
-                case 4:
+                case Aylar.Nisan:
                     Console.WriteLine("Nisan ayındasınız ve prim alıyorsunuz!");
                     break;
-                case 8:
+                case Aylar.Ağustos:
                     Console.WriteLine("Ağustos ayındasınız ve prim alıyorsunuz!");
                     break;
                 default:
                     Console.WriteLine("Bu ay prim almıyorsunuz!");
                     break;
             }
+
+
+
+
+
+        }
+
+        enum Aylar
+        {
+            Ocak,
+            Şubat,
+            Mart,
+            Nisan,
+            Mayıs,
+            Haziran,
+            Temmuz,
+            Ağustos,
+            Eylül,
+            Ekim,
+            Kasım,
+            Aralık
         }
     }
 }
