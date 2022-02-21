@@ -14,7 +14,8 @@ namespace csharp_learning
             // lesson_5.if_else();
             // lesson_6.switch_case();
             // lesson_7.loops();
-            lesson_8.loops_2();
+            // lesson_8.loops_2();
+            lesson_9.arrays();
         }
     }
 }
