@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace csharp_learning
 {
@@ -11,7 +12,6 @@ namespace csharp_learning
             //? Sort
             Array.Sort(_numbers); //? result => 1,2,7,8,9,10,23
             foreach (var item in _numbers) Console.WriteLine(item);
-
 
             //? Clear
             Array.Clear(_numbers, 0, 2); //? result => 0,0,7,8,9,10,23
@@ -29,6 +29,14 @@ namespace csharp_learning
             _numbers[7] = 4;
             _numbers[8] = 3;
             foreach (var item in _numbers) Console.WriteLine(item); //? result => 23,10,9,8,7,0,0,4,3
+
+            //? Max
+
+            List<int> _list = new List<int>(){
+                1,2,3,4,5,6,
+            };
+
+            _list.Sort();
         }
     }
 }

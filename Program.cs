@@ -16,7 +16,8 @@ namespace csharp_learning
             // lesson_7.loops();
             // lesson_8.loops_2();
             // lesson_9.arrays();
-            lesson_10.arrays_2();
+            // lesson_10.arrays_2();
+            lesson_11.methods();
         }
     }
 }
