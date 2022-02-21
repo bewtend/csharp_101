@@ -13,7 +13,8 @@ namespace csharp_learning
             // lesson_4.exception();
             // lesson_5.if_else();
             // lesson_6.switch_case();
-            lesson_7.loops();
+            // lesson_7.loops();
+            lesson_8.loops_2();
         }
     }
 }
