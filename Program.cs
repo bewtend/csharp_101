@@ -19,7 +19,11 @@ namespace csharp_learning
             // lesson_10.arrays_2();
             // lesson_11.methods();
             // lesson_12.method_overloading();
-            lesson_13.method_recursive_extension();
+            // lesson_13.method_recursive_extension();
+            // task_1.question1();
+            // task_1.question2();
+            // task_1.question3();
+            // task_1.question4();
         }
     }
 }
