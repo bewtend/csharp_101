@@ -24,6 +24,7 @@ namespace csharp_learning
             // task_1.question2();
             // task_1.question3();
             // task_1.question4();
+            lesson_14.string_methods();
         }
     }
 }

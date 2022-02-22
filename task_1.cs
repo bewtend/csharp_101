@@ -117,17 +117,14 @@ namespace csharp_learning
             string _input = Console.ReadLine();
             int _wordsLength = _input.Split(" ").Length;
             string[] _words = new string[_wordsLength];
+            int _sumWords = 0;
+            int _sumLetters = 0;
             for (int x = 0; x < _wordsLength; x++)
             {
                 _words[x] = _input.Split(" ")[x];
-            }
-            int _sumWords = 0;
-            int _sumLetters = 0;
-            foreach (var item in _words)
-            {
-                Console.WriteLine("Kelime: {0}, Harf sayısı: {1}", item, item.Length);
+                Console.WriteLine("Kelime: {0}, Harf sayısı: {1}", _words[x], _words[x].Length);
                 _sumWords++;
-                _sumLetters += item.Length;
+                _sumLetters += _words[x].Length;
             }
             Console.WriteLine("Toplam kelime sayısı: {0}", _sumWords);
             Console.WriteLine("Toplam harf sayısı: {0}", _sumLetters);
