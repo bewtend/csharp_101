@@ -27,7 +27,9 @@ namespace csharp_learning
             // lesson_14.string_methods();
             // lesson_15.dateTime_math_methods();
             // lesson_16._list();
-            lesson_17.arraylist();
+            // lesson_17.arraylist();
+            lesson_18.dictionary();
+
         }
     }
 }
