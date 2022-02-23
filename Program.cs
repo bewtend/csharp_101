@@ -28,8 +28,10 @@ namespace csharp_learning
             // lesson_15.dateTime_math_methods();
             // lesson_16._list();
             // lesson_17.arraylist();
-            lesson_18.dictionary();
-
+            // lesson_18.dictionary();
+            // task_2.question1();
+            // task_2.question2();
+            task_2.question3();
         }
     }
 }
