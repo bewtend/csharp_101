@@ -31,7 +31,8 @@ namespace csharp_learning
             // lesson_18.dictionary();
             // task_2.question1();
             // task_2.question2();
-            task_2.question3();
+            // task_2.question3();
+            lesson_19._class();
         }
     }
 }
