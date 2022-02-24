@@ -29,6 +29,8 @@ namespace csharp_learning
     {
         public int longEdge;
         public int shortEdge;
+
+        public Dikdortgen() { }
         public long CalculateArea()
         {
             return this.shortEdge * this.longEdge;

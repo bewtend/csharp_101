@@ -21,7 +21,6 @@ namespace csharp_learning
         {
             private static int customers;
             public static int Customers { get => customers; }
-            private int customerNo;
             private string customerName;
             private string customerSurname;
 

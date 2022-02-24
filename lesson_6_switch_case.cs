@@ -30,7 +30,7 @@ namespace csharp_learning
         }
         enum Aylar
         {
-            Ocak,
+            Ocak = 1,
             Şubat,
             Mart,
             Nisan,
