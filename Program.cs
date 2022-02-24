@@ -34,7 +34,8 @@ namespace csharp_learning
             // task_2.question3();
             // lesson_19._class();
             // lesson_20.encapsulation();
-            lesson_21.static_class();
+            // lesson_21.static_class();
+            lesson_22._struct();
         }
     }
 }
