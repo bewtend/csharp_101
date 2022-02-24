@@ -36,7 +36,9 @@ namespace csharp_learning
             // lesson_20.encapsulation();
             // lesson_21.static_class();
             // lesson_22._struct();
-            lesson_23._enums();
+            // lesson_23._enums();
+            // lesson_24._extends();
+            lesson_25._interface();
         }
     }
 }
