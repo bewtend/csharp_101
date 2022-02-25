@@ -38,7 +38,8 @@ namespace csharp_learning
             // lesson_22._struct();
             // lesson_23._enums();
             // lesson_24._extends();
-            lesson_25._interface();
+            // lesson_25._interface();
+            project_1.firstScreen();
         }
     }
 }
